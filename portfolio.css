@@ -1,0 +1,64 @@
+.case {
+    width: 1280px;
+    height: 116px;
+    background: var(--Black-900, #000);
+    border-radius: 25px;
+    display: flex;
+    margin-top: 48px;
+    justify-content: space-between;
+}
+
+.case-studies {
+    width: 496px;
+    height: 116px;
+    padding: 39px 80px 39px 80px;
+    box-sizing: border-box;
+
+}
+
+.case-studies h1 {
+    width: 246px;
+    height: 46px;
+    color: var(--White, #FFF);
+    font-feature-settings: 'clig' off, 'liga' off;
+    font-family: Inter;
+    font-size: 42px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 46px;
+    letter-spacing: -2px;
+}
+
+.studies {
+    width: 874px;
+    height: 116px;
+    padding: 24px 56px;
+    box-sizing: border-box;
+}
+
+.studies h1 {
+
+    max-width: 560px;
+    align-self: stretch;
+    height: 28px;
+    color: var(--White, #FFF);
+    font-feature-settings: 'clig' off, 'liga' off;
+
+    /* Heading/06 */
+    font-family: Inter;
+    font-size: 28px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 34px;
+    /* 121.429% */
+    letter-spacing: -0.6px;
+}
+
+
+
+.rasm1 img{
+    width: 1280px;
+    height: 627px;
+    margin-top: 48px;
+    
+}

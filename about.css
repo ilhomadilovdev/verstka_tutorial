@@ -1,0 +1,145 @@
+.image-papka {
+    width: 1280px;
+    height: 659px;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 80px;
+}
+
+.image-papka {
+    width: 1280px;
+    height: 659px;
+
+}
+
+.image-papka .rasm {
+    border-top-right-radius: 30px;
+    border-bottom-right-radius: 30px;
+
+}
+
+.content-page {
+    width: 1280px;
+    height: 432px;
+    display: flex;
+    margin-top: 160px;
+    justify-content: space-around;
+
+}
+
+.content-page img {
+    width: 624px;
+    height: 432px;
+}
+
+.content-page .text-content {
+    width: 624px;
+    height: 432px;
+  
+}
+
+.content-page .text-content h1 {
+    width: 624px;
+    height: 46px;
+    color: var(--White, #FFF);
+    font-feature-settings: 'clig' off, 'liga' off;
+    font-family: Inter;
+    font-size: 42px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 46px;
+    /* 109.524% */
+    letter-spacing: -2px;
+    align-self: stretch;
+}
+
+.content-page .text-content .hhh {
+    width: 624px;
+    height: 60px;
+    color: var(--Black-400, #9D9FA1);
+    font-feature-settings: 'clig' off, 'liga' off;
+    font-family: Inter;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    /* 166.667% */
+    align-self: stretch;
+    margin-top: 10px;
+ 
+}
+
+.karobka{
+    margin-top: 40px;
+}
+
+.karobka .karobka-1 {
+    display: flex;
+    justify-content: space-around;
+
+  
+}
+.karobka .karobka-1 ul{
+    list-style: none;
+}
+
+.karobka .karob {
+    color: var(--Black-200, #DDD);
+    font-feature-settings: 'clig' off, 'liga' off;
+height: 40px;
+    font-size: 34px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 40px;
+    /* 117.647% */
+    letter-spacing: -1px;
+  
+}
+
+.karobka .karob2 {
+    color: var(--White, #FFF);
+    font-feature-settings: 'clig' off, 'liga' off;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 26px;
+    margin-top: 4px;
+    /* 162.5% */
+    
+}
+
+.karobka .karob3 {
+    color: var(--Black-400, #9D9FA1);
+    font-feature-settings: 'clig' off, 'liga' off;
+
+    /* Text/14px/Regular */
+    font-family: Inter;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 22px;
+    margin-top: 6px;
+  /* 157.143% */
+  
+}
+
+
+.karobka-2{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 32px;
+}
+
+.karobka-2 ul{
+    list-style: none;
+}
+
+
+
+
+
+.test img{
+    width: 624px;
+    height: 368px;
+    margin-top: 80px;
+}

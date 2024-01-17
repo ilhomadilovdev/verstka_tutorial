@@ -1,0 +1,15 @@
+.max_jpg{
+    width: 1280px;
+  
+}
+.max_jpg  .div_blog{
+  display: flex;
+  justify-content: space-between;
+  
+    margin-top: 56px;
+}
+.max_jpg  .div_blog img{
+  width: 624px;
+  height: 520px;
+ 
+}

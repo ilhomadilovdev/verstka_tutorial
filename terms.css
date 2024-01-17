@@ -1,0 +1,123 @@
+.terms {
+    width: 906px;
+    height: 73px;
+    color: var(--White, #FFF);
+    font-feature-settings: 'clig' off, 'liga' off;
+
+    font-size: 63px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 73px;
+    /* 115.873% */
+    letter-spacing: -2.5px;
+}
+
+.terms_sh {
+    display: flex;
+    justify-content: space-between;
+}
+
+.v {
+    width: 67px;
+    height: 34px;
+    display: flex;
+    padding: 4px 16px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    border-radius: 100px;
+    border: 1px solid var(--Black-700, #282828);
+    color: var(--Blue-Black-200, #EAECF0);
+    text-align: center;
+    font-feature-settings: 'clig' off, 'liga' off;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 26px;
+    /* 162.5% */
+}
+
+.may {
+    width: 823px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    flex: 1 0 0;
+    align-self: stretch;
+    color: var(--Blue-Black-200, #EAECF0);
+    font-feature-settings: 'clig' off, 'liga' off;
+
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    margin-left: 16px;
+    /* 166.667% */
+}
+
+.mays_nayzak {
+    width: 906px;
+    height: 532px;
+    margin-top: 72px;
+    color: var(--Black-300, #BDBDBD);
+    font-feature-settings: 'clig' off, 'liga' off;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 38px;
+    /* 172.727% */
+}
+
+.definition {
+    width: 906px;
+    height: 42px;
+    color: var(--White, #FFF);
+    font-feature-settings: 'clig' off, 'liga' off;
+    font-size: 34px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 40px;
+    /* 117.647% */
+    letter-spacing: -1px;
+    margin-top: 72px;
+}
+
+.mays_nayzak1 {
+    width: 906px;
+    height: 532px;
+    margin-top: 24px;
+    color: var(--Black-300, #BDBDBD);
+    font-feature-settings: 'clig' off, 'liga' off;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 38px;
+    /* 172.727% */
+}
+
+.usage {
+    width: 906px;
+    height: 40px;
+    margin-top: 72px;
+    color: var(--White, #FFF);
+    font-feature-settings: 'clig' off, 'liga' off;
+    font-size: 34px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 40px;
+    /* 117.647% */
+    letter-spacing: -1px;
+}
+
+.naysd {
+    width: 906px;
+    height: 494px;
+    color: var(--Black-300, #BDBDBD);
+    font-feature-settings: 'clig' off, 'liga' off;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 38px;
+    margin-top: 24px;
+    /* 172.727% */
+}
